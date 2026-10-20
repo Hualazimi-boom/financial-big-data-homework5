@@ -1,0 +1,6 @@
+PASS: A rows=285, unique=285; B rows=320, unique=320
+PASS: task1=547 rows, fully verified and sorted; task2=3 rows
+index	BOTH	A_ONLY	B_ONLY	UNION
+101	3	13	4	20
+102	3	19	3	25
+103	52	195	255	502

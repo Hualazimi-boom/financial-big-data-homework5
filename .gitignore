@@ -1,0 +1,7 @@
+target/*
+!target/*.jar
+*.class
+*.crc
+.idea/
+.vscode/
+__pycache__/
