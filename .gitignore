@@ -1,0 +1,13 @@
+data/
+validation/train.csv
+validation/holdout.csv
+validation/fitted/
+target/*
+!target/credit-mapreduce.jar
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+__pycache__/
+!logs/*.log
